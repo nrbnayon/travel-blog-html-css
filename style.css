@@ -390,7 +390,7 @@ nav {
   margin: 10px;
   margin: 20px;
   align-items: center;
-  background-color: rgb(19, 188, 194);
+  background: linear-gradient(45deg, #2181c2, #8e44ad, rgb(29, 8, 8));
   box-shadow: 5px 5px 5px rebeccapurple;
   color: azure;
   border-radius: 10px;
