@@ -26,9 +26,11 @@ Create a new branch for your feature: git checkout -b feature/your-feature-name
 Make your changes and commit them:
 
 bash
-`git add .`
-`git commit -m "Add your feature details"`
+git add .
+git commit -m "Add your feature details"
 Push to the branch:
+### Feel free to customize the content further to better suit your style and preferences.
+
 bash
 `git push origin feature/your-feature-name`
 Create a pull request on GitHub.
